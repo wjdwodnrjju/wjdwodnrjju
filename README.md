@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 20184252 정재욱
+# 2조 20184252 정재욱
+# 프로젝트:계산기 만들기
+# 

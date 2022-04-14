@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 2조 20184252 정재욱
-# 프로젝트:계산기 만들기
-# 
+# 프로젝트: 계산기 만들기
+# 사용한 프로그램 언어: 파이썬
